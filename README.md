@@ -18,4 +18,12 @@
 # pip install matplotlib
 
 # pip freeze para verificar lo instalado solo en el entorno virtual
-# pip freeze -->
+# pip freeze 
+
+# para crear el requirements.txt 
+# pip freeze > requirements.txt
+
+# para instalar las dependencias del requirements.txt
+# pip install -r requirements.txt
+
+-->
