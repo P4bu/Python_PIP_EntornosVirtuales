@@ -12,18 +12,21 @@
 # deactivate
 
 # pip freeze para verificar que no ha nada instalado aún
-# pip freeze
+# pip3 freeze
 
 # Instalar 
-# pip install matplotlib
+# pip3 install matplotlib
 
 # pip freeze para verificar lo instalado solo en el entorno virtual
-# pip freeze 
+# pip3 freeze 
 
 # para crear el requirements.txt 
-# pip freeze > requirements.txt
+# pip3 freeze > requirements.txt
 
 # para instalar las dependencias del requirements.txt
-# pip install -r requirements.txt
+# pip3 install -r requirements.txt
+
+# ejecutar main.py entorno virtual
+# python3 main.py
 
 -->
